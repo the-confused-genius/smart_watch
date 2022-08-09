@@ -10,3 +10,7 @@ A small and effective library that has some feature of a smart watch.
 -> Tilt sensor tells the controller if the device is tilted or not, the user can turn ON or OFF this feature  
 -> Heart rate and SPO2 level sensor that displays the users levels  
 -> On board Vibration motor installed to alert the user about the alarm, which can be toggeled ON or OFF 
+
+
+## The Circuit diagram 
+![alt text](https://github.com/the-confused-genius/smart_watch/blob/main/smartwatch.png)
