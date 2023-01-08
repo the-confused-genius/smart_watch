@@ -13,4 +13,4 @@ A small and effective library that has some feature of a smart watch.
 
 
 ## The Circuit diagram 
-![The Circuit diagram](https://github.com/the-confused-genius/smart_watch/blob/main/smartwatch.png)
+![Alt text](https://github.com/the-confused-genius/smart_watch/blob/main/smartwatch.png)
