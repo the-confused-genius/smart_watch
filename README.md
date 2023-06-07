@@ -12,6 +12,6 @@ A small and effective library that has some feature of a smart watch.
 -> On board Vibration motor installed to alert the user about the alarm, which can be toggeled ON or OFF 
 
 
-## The Circuit diagram 
-![Alt text](https://github.com/the-confused-genius/smart_watch/blob/main/smartwatch.jpg)
-<img src="./smartwatch.jpg" alt="" />
+## The Circuit diagram
+![image](https://github.com/the-confused-genius/smart_watch/assets/90715773/b890f636-fd6d-4814-a663-bbde5e981621)
+
